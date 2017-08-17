@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee Department="IT">
+    <Name>Avi</Name>
+    <Age>30</Age>
+    <Gender>Male</Gender>
+    <Mobile>Yes</Mobile>
+    <Married>No</Married>
+    <Children />
+  </Employee>
+</Employees>

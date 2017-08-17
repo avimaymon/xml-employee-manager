@@ -1,0 +1,19 @@
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\bin\Debug\proj1 - XML.exe.config
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\bin\Debug\proj1 - XML.exe
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\bin\Debug\proj1 - XML.pdb
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.csprojResolveAssemblyReference.cache
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\obj\Debug\proj1___XML.Form1.resources
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\obj\Debug\proj1___XML.Properties.Resources.resources
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.csproj.GenerateResource.Cache
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.exe
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.pdb
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\bin\Debug\proj1 - XML.exe.config
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\bin\Debug\proj1 - XML.exe
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\bin\Debug\proj1 - XML.pdb
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.csprojResolveAssemblyReference.cache
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\obj\Debug\proj1___XML.Form1.resources
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\obj\Debug\proj1___XML.Properties.Resources.resources
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.csproj.GenerateResource.Cache
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.exe
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.pdb
+C:\Users\Avi Maymon\Desktop\WebDevServerSide\projects\1\proj1 - XML\proj1 - XML\proj1 - XML\obj\Debug\proj1 - XML.csproj.CoreCompileInputs.cache
